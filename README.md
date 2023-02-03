@@ -2,7 +2,8 @@
 # Hi there, i'm Ruan Amaral
 You have a question about me? Maybe i have the answer :)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ruan%20Amaral-00875f?style=flat-square&labelColor=00875f&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-a-92457612a/)](https://www.linkedin.com/in/ruan-a-92457612a/) [![Gmail Badge](https://img.shields.io/badge/-ruan.amaral.lemos@gmail.com-00875f?style=flat-square&labelColor=00875f&logo=Gmail&logoColor=white&link=mailto:ruan.amaral.lemos@gmail.com)](mailto:ruan.amaral.lemos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ruan%20Amaral-00875f?style=flat-square&labelColor=00875f&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ruan-a-92457612a/)](https://www.linkedin.com/in/ruan-a-92457612a/) [![Gmail Badge](https://img.shields.io/badge/-ruan.amaral.lemos@gmail.com-00875f?style=flat-square&labelColor=00875f&logo=Gmail&logoColor=white&link=mailto:ruan.amaral.lemos@gmail.com)](mailto:ruan.amaral.lemos@gmail.com)
+
 
 # Technologies
 These are some of the technologies and tools that I work with:
